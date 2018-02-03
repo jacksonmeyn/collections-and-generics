@@ -1,0 +1,7 @@
+C:\Users\jacks\Documents\AAAUni\Object Oriented Programming\JacksonMeyn_Assignment2\JacksonMeyn_Part2\SongDictionary\SongDictionary\bin\Debug\SongDictionary.exe.config
+C:\Users\jacks\Documents\AAAUni\Object Oriented Programming\JacksonMeyn_Assignment2\JacksonMeyn_Part2\SongDictionary\SongDictionary\bin\Debug\SongDictionary.exe
+C:\Users\jacks\Documents\AAAUni\Object Oriented Programming\JacksonMeyn_Assignment2\JacksonMeyn_Part2\SongDictionary\SongDictionary\bin\Debug\SongDictionary.pdb
+C:\Users\jacks\Documents\AAAUni\Object Oriented Programming\JacksonMeyn_Assignment2\JacksonMeyn_Part2\SongDictionary\SongDictionary\obj\Debug\SongDictionary.csprojResolveAssemblyReference.cache
+C:\Users\jacks\Documents\AAAUni\Object Oriented Programming\JacksonMeyn_Assignment2\JacksonMeyn_Part2\SongDictionary\SongDictionary\obj\Debug\SongDictionary.csproj.CoreCompileInputs.cache
+C:\Users\jacks\Documents\AAAUni\Object Oriented Programming\JacksonMeyn_Assignment2\JacksonMeyn_Part2\SongDictionary\SongDictionary\obj\Debug\SongDictionary.exe
+C:\Users\jacks\Documents\AAAUni\Object Oriented Programming\JacksonMeyn_Assignment2\JacksonMeyn_Part2\SongDictionary\SongDictionary\obj\Debug\SongDictionary.pdb
